@@ -1,5 +1,7 @@
 # dnsmasq_cache cookbook
 
+[![Build Status](https://secure.travis-ci.org/higanworks-cookbooks/dnsmasq_cache.png?branch=master)](https://travis-ci.org/higanworks-cookbooks/dnsmasq_cache)
+
 Install dnsmasq and use localcache.
 
 ## tested by
