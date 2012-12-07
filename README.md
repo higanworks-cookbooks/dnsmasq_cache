@@ -2,6 +2,10 @@
 
 Install dnsmasq and use localcache.
 
+## tested by
+
+- foodcritic
+
 # Requirements
 
 # Usage
