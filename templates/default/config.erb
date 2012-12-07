@@ -1,0 +1,9 @@
+## Created by chef for <%= node['hostname'] %>
+##
+<% @config.each_pair do |k,v| %>
+  <% if v != nil %>
+<%= k %>=<%= v %>
+  <% else %>
+<%= k %>
+  <% end %>
+<% end %>
